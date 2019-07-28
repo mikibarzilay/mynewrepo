@@ -1,0 +1,2 @@
+# mynewrepo
+Repo for test
